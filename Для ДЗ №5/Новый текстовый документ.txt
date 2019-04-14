@@ -1,0 +1,2 @@
+background: url(../img/apple.jpg) center no-repeat;
+b.style.background = 'url(../img/apple_true.jpg) center no-repeat';
